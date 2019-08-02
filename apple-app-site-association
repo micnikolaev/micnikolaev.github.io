@@ -1,11 +1,11 @@
 {
     "applinks": {
         "apps": [
-            "DBVBNXAA55.com.aloha.passcodeProject"
+            "DBVBNXAA55.com.alohabrowser.alohabrowser"
         ],
         "details": [
             {
-                "appID": "DBVBNXAA55.com.aloha.passcodeProject",
+                "appID": "DBVBNXAA55.com.alohabrowser.alohabrowser",
                 "paths": [
                     "*"
                 ]
