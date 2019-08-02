@@ -6,13 +6,11 @@
     },
     "applinks": {
         "apps": [
-            "4F7SW76LL6.com.di.AutoPassword-iOS12",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
+            "DBVBNXAA55.com.aloha.passcodeProject"
         ],
         "details": [
             {
-                "appID": "4F7SW76LL6.com.di.AutoPassword-iOS12",
+                "appID": "DBVBNXAA55.com.aloha.passcodeProject",
                 "paths": [
                     "*"
                 ]
