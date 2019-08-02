@@ -1,7 +1,15 @@
 {
-    "webcredentials": {
+    "applinks": {
         "apps": [
             "DBVBNXAA55.com.aloha.passcodeProject"
+        ],
+        "details": [
+            {
+                "appID": "DBVBNXAA55.com.aloha.passcodeProject",
+                "paths": [
+                    "*"
+                ]
+            }
         ]
-    },
+    }
 }
