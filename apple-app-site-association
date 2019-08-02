@@ -3,5 +3,20 @@
         "apps": [
             "DBVBNXAA55.com.aloha.passcodeProject"
         ]
+    },
+    "applinks": {
+        "apps": [
+            "4F7SW76LL6.com.di.AutoPassword-iOS12",
+            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
+            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
+        ],
+        "details": [
+            {
+                "appID": "4F7SW76LL6.com.di.AutoPassword-iOS12",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
     }
 }
